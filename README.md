@@ -1,37 +1,44 @@
-<div align="center">
+# O que Aprendi em Engenharia de Software
 
-# 🎉 Congratulations Fabricio-Alencar! 🎉
+## Conceitos Principais
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+Neste projeto, estudei e pratici os principais conceitos de Engenharia de Software, que são:
 
-### 🌟 You've successfully completed the exercise! 🌟
+* **Controle de Versão**: gerenciamento e rastreamento do histórico de alterações do código-fonte ao longo do tempo.
+* **Fluxo de Trabalho Git (Git Flow)**: processo estruturado de desenvolvimento com criação de ramificações (*branches*), envios (*commits*), solicitações de integração (*pull requests*) e fusões (*merges*).
+* **APIs RESTful**: concepção e construção de interfaces de programação para comunicação entre sistemas usando o protocolo HTTP.
+* **Automação com CI/CD**: configuração de rotinas automatizadas (*workflows*) no GitHub para validar passos do desenvolvimento.
+* **Testes e Validação de Requisições**: verificação do comportamento dos *endpoints* da aplicação através de suítes de teste de requisições.
+* **Revisão de Código (Code Review)**: análise colaborativa de código antes da integração na ramificação principal para garantir qualidade.
 
-## 🚀 Share Your Success!
+## Linguagens e Ferramentas Usadas
 
-**Show off your new skills and inspire others!**
+Para praticar esses conceitos, utilizei a linguagem **Python**, os frameworks web **Flask** e **FastAPI**, além de ferramentas como **Git**, **GitHub** (GitHub Actions) e **Postman**.
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FFabricio-Alencar%2Fskills-introduction-to-github2%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FFabricio-Alencar%2Fskills-introduction-to-github2%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FFabricio-Alencar%2Fskills-introduction-to-github2%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+## Projetos e Atividades Práticas
 
-### 🎯 What's Next?
+Desenvolvi atividades voltadas para o desenvolvimento backend e controle de versão:
 
-**Keep the momentum going!**
+* **Desenvolvimento de APIs REST**: criação de rotas e manipulação de requisições utilizando os frameworks Flask e FastAPI em Python.
+* **Ciclo de Controle de Versão no GitHub**: execução prática de etapas de desenvolvimento colaborativo, cobrindo a criação de *branches*, realização de *commits*, abertura de *Pull Requests*, revisões de código e *merge*.
+* **Coleções de Teste no Postman**: estruturação, execução e exportação de coleções de requisições (*collections*) para testar e validar o funcionamento das APIs.
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Fabricio-Alencar/skills-introduction-to-github2/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
+## Tópicos e Práticas Estudadas
 
-*There's no better way to learn than building things!* 🚀
+Durante o aprendizado, estudei e apliquei as seguintes práticas de engenharia:
 
-</div>
+* **Estratégia de Ramificação (Branching)**: isolamento de novas funcionalidades em *branches* dedicadas antes da integração no código principal.
+* **Pull Requests e Fusão**: submissão de alterações para verificação automatizada e revisão contínua antes do *merge*.
+* **Documentação e Organização de Requisições**: estruturação clara das rotas da aplicação em arquivos de coleção do Postman.
+* **Registro de Evidências**: documentação visual dos testes de integração e execução dos projetos.
 
----
+## Benefícios da Engenharia de Software
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Ao aplicar as práticas de Engenharia de Software, percebi diversos benefícios como:
 
+* Maior controle e rastreabilidade sobre todas as modificações realizadas no sistema;
+* Trabalho em equipe mais seguro e sem conflitos diretos no código principal;
+* Padronização na criação e no consumo de serviços web;
+* Facilidade em identificar e corrigir falhas antes de enviar o código para produção;
+* Redução de tarefas manuais repetitivas através do uso de *workflows* de integração contínua;
+* Clareza na documentação e facilidade no compartilhamento de requisições de teste entre os desenvolvedores.
